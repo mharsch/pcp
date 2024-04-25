@@ -1,0 +1,23 @@
+{
+  "name": "pcp",
+  "version": "1.0.0",
+  "description": "NodeRED node showing python co-process management",
+  "node-red": {
+    "nodes": {
+      "pcp": "pcp.js"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mharsch/pcp.git"
+  },
+  "author": "Mike Harsch <mike@harschsystems.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mharsch/pcp/issues"
+  },
+  "homepage": "https://github.com/mharsch/pcp#readme"
+}
